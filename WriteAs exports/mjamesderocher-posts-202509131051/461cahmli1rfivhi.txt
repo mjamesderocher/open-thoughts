@@ -1,0 +1,15 @@
+# Standoff Properties
+
+What gives me the right to impose my format on text? (The tyranny of markup)
+
+Some research into standoff properties comes from the digital humanities. If there is a spelling mistake in the original source, I should not edit the original source. But for sake of easier reading, we can add annotations that fix the mistake. This annotation layer can be combined with the original text in the rendering process.
+
+In newspaper articles, many different font styles are used. I may want some of these headings to display as an h2 or h3 in my CMS, but it isn’t likely that the editor was thinking of those specific levels when he created the text. He was not concerned with the semantics, but the visual appearance that brought attention to a piece of text to show its importance.
+
+Standoff properties limits fragmentation of source texts. Instead of creating many different versions of a text, we have one source version and we all add our layers on top of it.
+
+Standoff properties handle overlap in markup.
+
+There are tradeoffs. Information is split up among various files instead of being self-contained.
+
+If a PDF encloses all highlights, then each time an annotation is added, then the whole file has to be saved and uploaded if stored remotely.

@@ -1,0 +1,3 @@
+# note or blog post
+
+James Long changed his site so that all posts are just notes.

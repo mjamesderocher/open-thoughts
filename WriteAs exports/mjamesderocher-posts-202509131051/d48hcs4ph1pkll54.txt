@@ -1,0 +1,11 @@
+# Web apps vs. Sites (No, it has nothing to do with tech)
+
+It’s a very tired argument. What is the difference between web sites and web apps. Or if there even a difference between the two?
+
+Many times the argument is that web apps are built with JS. Early web apps meant single page apps without URLs. But with tech like Next.js and Sveltekit that use URL routes as the main way of organizing your app, most apps can have URLs.
+
+* Web sites have URLs for everything
+* Web sites have public-facing content (On Github, if you don’t have access to a repo, the URL shows as 404 and not “Sign in to get access to this.” Probably because of privacy, because a URL can give away a lot of information.)
+* Web sites have content visible by default (when published). Web apps have content hidden by default.
+* Web sites have a concept of published or done. Web apps contain never finished content.
+* Websites have the longevity of content in mind. In an app, my content is very much tied to my account. If I close my account, my content is gone. I have to specifically share with others. On a site like WordPress, I can create content and by default other users can edit and access it.

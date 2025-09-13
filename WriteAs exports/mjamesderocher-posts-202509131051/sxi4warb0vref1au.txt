@@ -1,0 +1,11 @@
+# The Timeline is the problem
+
+> a decentralized or federated timeline is still a timeline, and for me, the timeline is the problem.
+>
+> https://www.robinsloan.com/lab/specifying-spring-83/#summer
+
+Being new is the main reason we are shown something nowadays. (Exception is Facebook memories of on this day posts.) Even search filters help you limit to past year, month, or week.
+
+“Meaningful” is hard to categorize, since it is subjective to the user. With the ungodly amount of data big tech has collected from us, they still fail in the most part to show content that I am actually interested in.
+
+We could move back to being a web. Where links take us on trails to different places.

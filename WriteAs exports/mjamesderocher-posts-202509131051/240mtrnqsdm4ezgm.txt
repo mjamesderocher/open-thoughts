@@ -1,0 +1,49 @@
+# Variations
+
+## Names
+
+“What’s in a name?” My parents put the name “Matthew” on my birth certificate. Many people call me “Matt.” In Tanzania, they call me “Mathayo.” On most social platforms I am “mjamesderocher.” Even a name is a complicated thing because it means something different to different people. Usually “Matthew” is considered to be my “first name,” but it can also be called a “given name” or a “Christian name.” In China, the first name is the family name. In Tanzania, people think my father’s name was James (it wasn’t), because the second name in Tanzania is your father’s name.
+
+## Book editions
+
+What is a book? It seems like a very easy question util you start thinking about the details.
+
+There are different editions where the author and/or publisher have made corrections or additions. There is usually an updated preface giving a general overview of what has changed. But I am more thinking of variations of the same edition.
+
+Printing errors
+
+Audio book
+
+Kindle version
+
+Reader’s annotations and underlines
+
+Scan of paper book
+
+## Multiple files on the web
+
+Sometimes the variation is location based. On the web, we use URLs to point to something. A PDF can be uploaded to infinitive locations on the web. Which one is the true source? If the files is the same, they all are equal in a technical sense. But the author might have a preferred location for you to download it from because either they want you to pay for it from them or they just want to keep track of download metrics.
+
+Once a file is downloaded, it’s link to it’s original URL is lost, unless there is text in the PDF that mentions the download URL. many academic papers include a cover letter that has a URL like this so the paper can easily be referenced.
+
+Another location-based variation is that complete information about someone or something is not all kept on one web page. A person can have a personal blog, social media profiles, and a Wikipedia page written about them. Which one of them is their digital home? Which one do I link to if I am talking about that person?
+
+OWL sameas
+
+## Content addressing
+
+If I create a file that says “Hello world” and you save it to IPFS and you create a file that says “Hello world” then they have the exact same content address. Virtually, they are the same file. But any variation of the content changes the CID. If my file has an exclamation point at the end of it or even a space or new line character, then it has a different CID.
+
+## Standoff markup
+
+> It is also clear that, to be reusable and readable, plain text must be virtually complete and coherent. Hence internal variations in the form of additions, deletions or other divergences cannot be permitted. This may seem an impossible constraint to allow, since virtually any manuscript sources, even ancient papyri and inscriptions, contain erasures and insertions, substitutions and transpositions, and even printed texts contain errors that must be corrected.
+>
+> https://www.semanticscholar.org/paper/Standoff-properties-as-an-alternative-to-XML-for-Schmidt/6056afc3c25fcf0e9b3e677c04ea4bc34b8151ab
+
+## Text fragments
+
+https://web.dev/text-fragments/
+
+Text fragments are a way to link to certain text on the web. It’s basically like “find in page” built into the URL. Go to this address and then search to this text and jump to it. Because it is not looking for a certain character position, then I could edit the page and add or delete paragraphs and the link would still work. It is interesting to think about using something similar to link to information across different file variations of one book. I could save a highlight in my database and locate it in any version of the work, whether it be ePub, PDF, plain text, or even audio if it has a transcription.
+
+Of course it couldn’t work for all kinds of markup. If I wanted to use a search system to make bold just a single instance of one word, it would be impossible. If I searched for the word “the” and had in mind a specific instance of it, I couldn’t select just the one I wanted.

@@ -1,0 +1,11 @@
+# Tradeoffs
+
+Boat cars
+
+Apple watch
+
+Standoff markup vs all in one
+
+> Files are at some level a hack, I get that, there are limits but they are an extremely useful and flexible hack. Like the QWERTY keyboard, they are “good enough” for most tasks. Files encapsulate a ‘chunk’ of your work and allow that chunk to be seen, moved, acted on, and accessed by multiple people and more importantly external 3rd party processes.
+>
+> https://jenson.org/files/

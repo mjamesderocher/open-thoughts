@@ -1,0 +1,35 @@
+# Interop as a winning force
+
+The tool that most advanced tools for thought in recent years is Markdown. It was
+
+A CMS platform that has a json based block text editor. (I'm not going to name the company, because I'm not intending to shame them.) To much fanfare, they released the json format as open source. The wording made it seem like they thought it would be the future of block based editing on the web. But it hasn't gone anywhere beyond their own internal use. The explanation for this is simple: they provided no tools for the standard to be used outside of their CMS. No JS library to help translate a textarea to the JSON format and virtually no documentation.
+
+Markdown released with tools to convert it to HTML.
+
+## Simplicity is nonthreatening
+
+Markdown was simple. That's why it gained so much traction. You could write it anywhere, even places that didn't officially support it, and it still made visual sense. It is human readable.
+
+It used only characters that could be easily typed on the keyboard.
+
+There were only a handful of rules included with the original spec. It was so simple, that there is no end to different flavors of MD being created to add “missing” features to it.
+
+Humans are highly opinionated. The only way something can really gain popularity is if it is simple enough to not go against the way someone already thinks. (Of course you will still have some snobbish people who will discredit it because it is too simple.)
+
+## Too much freedom is paralyzing
+
+RFD is extremely simple in its syntax.  And because of blank nodes, the open world assumption, and ontologies, such as OWL's sameas, it can be used anywhere and interop with anything. It is because it is so open that people don't quickly adopt it. It's too powerful.
+
+## The future
+
+The block protocol is aiming to bring interop to blocks on the web. It is an exciting idea, but it is too early to see if it will succeed.
+
+Fission interop meetup videos
+
+Protocols
+
+But even protocols aren't enough (difference of idea in Social working group)
+
+Lenses
+
+Cambria

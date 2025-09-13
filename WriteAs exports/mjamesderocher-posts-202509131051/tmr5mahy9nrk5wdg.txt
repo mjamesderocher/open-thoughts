@@ -1,0 +1,11 @@
+# Semantic Quotations
+
+RDF is a kind of footnote for both humans and machines. It can explain intent without having to articulate it each time.
+
+Who said it first? When a quote is used, how do we know if it is a quote or the source? A computer would have to have index all texts from documents. It will have to know the date of when text the texts were published. Then it would compare the dates to see which one came first.
+
+There are so many motivations when one work quotes another. Sometimes it is used to support an idea. Sometimes it is done to disprove the original idea. Sometimes it is used in a mocking form of irony. I can know the same words are being used, though I cannot always know the exact intent of the author. The quotation may also be accidental. If I have a dog named Spot who is running after a squirrel, and I shout “see Spot run!” am I necessarily quoting from Dick and Jane? If it was not my intention, then we would say it is a coincidence that the same words were used. In modern written text, we have quotation marks for to help notate when we are purposely citing someone else. Older forms of writing and spoken communication don’t have this. Some speakers are careful to verbally clarify by saying “begin quote” and “end quote,” but for speed and flow these details are often not done. Sometimes a speaker uses air quotes (usually for irony) but a transcript of a speech will likely not contain that.
+
+“This is the way” is a quotation from the Mandalorian. But it is also part of a quote from Jesus. Many times, when people use it, they are referring to one original usage or the other.
+
+For past documents, the best we can do is guess. But when we write with modern tools, we should be able to give more metadata about our intent when we quote someone else.
